@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML5</title>
+</head>
+<body>
+ 
+ <header>
+ 	<a href="/">
+ 	<img src="img/logo.png" alt="">
+ 	</a>
+ 	<nav>
+ 		<li><a href="">Home</a></li>
+ 		<li><a href="">Features</a></li>
+ 		<li><a href="">Video</a></li>
+ 		<li><a href="">Gallery</a></li>
+<li><a href="">Contacts</a></li>
+
+
+ 	</nav>
+ </header>
+ <section></section>
+ <section></section>
+ <section></section>
+ <footer></footer>
